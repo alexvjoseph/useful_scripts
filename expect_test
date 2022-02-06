@@ -1,0 +1,7 @@
+#!/usr/bin/expect
+set timeout 10
+puts "hello"
+sleep 2
+puts "hellooo"
+puts ""
+sleep 2
